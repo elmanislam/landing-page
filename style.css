@@ -1,0 +1,29 @@
+
+/* MAIN STRUCTURE */
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+
+}
+
+
+
+
+
+ul {
+  list-style-type: none;
+
+}
+
+li {
+
+}
+
+a {
+  color: black;
+  text-decoration: none;
+
+}
